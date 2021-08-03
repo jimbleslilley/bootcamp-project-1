@@ -5,7 +5,7 @@ A project by Mini Yadav, Isha Singh, Emmanuela Osei Owusu, Sam Stafford, James L
 
 # Project Outline
 
-Our project sets out to dive into two interesting data stats we found to do with massively influcial and popular streaming service, Netflix. We hope to uncover insights related to both the revenue and the subscriber count of the service, as well as its relation to Netflix Originals - shows which Netflix funds or licenses exclusively. 
+Our project sets out to dive into two interesting data stats we found to do with massively influencial and popular streaming service, Netflix. We hope to uncover insights related to both the revenue and the subscriber count of the service, as well as its relation to Netflix Originals - shows which Netflix funds or licenses exclusively. 
 
 
 ## Questions
