@@ -1,585 +1,83 @@
-,Title,Genre,Premiere,Runtime,IMDB Score,Language,Omdb Review Score,Omdb Review Count,Month,Year,Financial Quarter
-0,Enter the Anime,Documentary,"August 5, 2019",58,2.5,English/Japanese,2.5,"1,515",August,2019,3
-1,Dark Forces,Thriller,"August 21, 2020",81,2.6,Spanish,3.9,31,August,2020,3
-2,The App,Science fiction/Drama,"December 26, 2019",79,2.6,Italian,2.6,"1,201",December,2019,4
-3,The Open House,Horror thriller,"January 19, 2018",94,3.2,English,3.2,"32,162",January,2018,1
-4,Kaali Khuhi,Mystery,"October 30, 2020",90,3.4,Hindi,3.4,"1,048",October,2020,4
-5,Drive,Action,"November 1, 2019",147,3.5,Hindi,7.8,"587,337",November,2019,4
+index,Title,Genre,Premiere,Runtime,IMDB Score,Language,Omdb Review Score,Omdb Review Count,Month,Year,Financial Quarter
 6,Leyla Everlasting,Comedy,"December 4, 2020",112,3.7,Turkish,,,December,2020,4
-7,The Last Days of American Crime,Heist film/Thriller,"June 5, 2020",149,3.7,English,3.7,"10,245",June,2020,
-8,Paradox,Musical/Western/Fantasy,"March 23, 2018",73,3.9,English,4.6,"3,160",March,2018,1
-9,Sardar Ka Grandson,Comedy,"May 18, 2021",139,4.1,Hindi,4.2,"3,955",May,2021,
-10,Searching for Sheela,Documentary,"April 22, 2021",58,4.1,English,4.1,573,April,2021,2
-11,The Call,Drama,"November 27, 2020",112,4.1,Korean,6.7,"115,179",November,2020,4
-12,Whipped,Romantic comedy,"September 18, 2020",97,4.1,Indonesian,4.5,"3,976",September,2020,3
-13,All Because of You,Action comedy,"October 1, 2020",101,4.2,Malay,4.0,181,October,2020,4
-14,Mercy,Thriller,"November 22, 2016",90,4.2,English,5.0,"5,197",November,2016,4
-15,After the Raid,Documentary,"December 19, 2019",25,4.3,Spanish,4.3,99,December,2019,4
-16,Ghost Stories,Horror anthology,"January 1, 2020",144,4.3,Hindi,6.4,"32,409",January,2020,1
-17,The Last Thing He Wanted,Political thriller,"February 21, 2020",115,4.3,English,4.3,"13,521",February,2020,1
-18,What Happened to Mr. Cha?,Comedy,"January 1, 2021",102,4.3,Korean,4.3,263,January,2021,1
-19,Death Note,Horror thriller,"August 25, 2017",100,4.4,English,4.4,"78,863",August,2017,3
-20,"Hello Privilege. It's Me, Chelsea",Documentary,"September 13, 2019",64,4.4,English,4.4,"1,833",September,2019,3
-21,Secret Obsession,Thriller,"July 18, 2019",97,4.4,English,4.4,"19,425",July,2019,3
-22,Sextuplets,Comedy,"August 16, 2019",99,4.4,English,4.4,"7,728",August,2019,3
-23,The Girl on the Train,Thriller,"February 26, 2021",120,4.4,Hindi,6.5,"175,487",February,2021,1
-24,Thunder Force,Superhero-Comedy,"April 9, 2021",105,4.4,English,4.4,"34,763",April,2021,2
-25,Fatal Affair,Thriller,"July 16, 2020",89,4.5,English,4.5,"5,161",July,2020,3
-26,Just Say Yes,Romantic comedy,"April 2, 2021",97,4.5,Dutch,4.5,"1,569",April,2021,2
-27,Seriously Single,Comedy,"July 31, 2020",107,4.5,English,4.4,"1,143",July,2020,3
 28,The Misadventures of Hedi and Cokeman,Comedy,"February 10, 2021",99,4.5,French,,,February,2021,1
 29,5 Star Christmas,Comedy,"December 7, 2018",95,4.6,Italian,,,December,2018,4
-30,After Maria,Documentary,"May 24, 2019",37,4.6,English/Spanish,4.6,371,May,2019,
-31,I Am the Pretty Thing That Lives in the House,Horror,"October 28, 2016",89,4.6,English,4.6,"13,573",October,2016,4
 32,Paris Is Us,Romance drama,"February 22, 2019",83,4.6,French,,,February,2019,1
 33,Porta dos Fundos: The First Temptation of Christ,Comedy,"December 3, 2019",46,4.6,Portuguese,,,December,2019,4
-34,Rattlesnake,Horror,"October 25, 2019",85,4.6,English,4.6,"7,918",October,2019,4
-35,The Players,Comedy,"July 15, 2020",88,4.6,Italian,3.3,7,July,2020,3
-36,We Are One,Documentary,"July 14, 2020",86,4.6,French,4.6,74,July,2020,3
-37,Finding Agnes,Drama,"November 30, 2020",105,4.7,Filipino,4.6,112,November,2020,4
-38,IO,Science fiction/Drama,"January 18, 2019",95,4.7,English,4.7,"32,114",January,2019,1
-39,Sentinelle,Action,"March 5, 2021",80,4.7,French,4.7,"6,717",March,2021,1
-40,Sol Levante,Anime / Short,"April 2, 2020",4,4.7,English,4.7,422,April,2020,2
-41,The Binding,Drama,"October 2, 2020",93,4.7,Italian,3.6,496,October,2020,4
-42,We Can Be Heroes,Superhero,"December 25, 2020",100,4.7,English,4.7,"11,870",December,2020,4
 43,Christmas Crossfire,Thriller,"December 4, 2020",106,4.8,German,,,December,2020,4
-44,Coin Heist,Heist,"January 6, 2017",97,4.8,English,4.8,"2,498",January,2017,1
-45,Mrs. Serial Killer,Thriller,"May 1, 2020",106,4.8,Hindi,4.8,"11,716",May,2020,
 46,Nobody Sleeps in the Woods Tonight,Horror,"October 28, 2020",103,4.8,Polish,,,October,2020,4
-47,Take the 10,Comedy,"January 20, 2017",80,4.8,English,4.8,"2,871",January,2017,1
-48,The Main Event,Comedy,"April 10, 2020",101,4.8,English,5.6,"2,672",April,2020,2
-49,The Ridiculous 6,Western,"December 11, 2015",119,4.8,English,4.8,"45,838",December,2015,4
 50,Earth and Blood,Action,"April 17, 2020",80,4.9,French,,,April,2020,2
-51,Fearless,Animation/Superhero,"August 14, 2020",89,4.9,English,7.1,"21,660",August,2020,3
-52,Holiday Rush,Family film,"November 28, 2019",94,4.9,English,4.9,"2,273",November,2019,4
 53,The Day of the Lord,Drama,"October 30, 2020",93,4.9,Spanish,,,October,2020,4
-54,Airplane Mode,Comedy,"January 23, 2020",96,5.0,Portuguese,2.6,"3,046",January,2020,1
-55,How It Ends,Action-thriller,"July 13, 2018",113,5.0,English,5.0,"46,578",July,2018,3
 56,Love Like the Falling Rain,Drama,"October 15, 2020",86,5.0,Indonesian,,,October,2020,4
-57,Rebirth,Thriller,"July 15, 2016",100,5.0,English,5.0,"4,705",July,2016,3
 58,Squared Love,Romantic comedy,"February 11, 2021",102,5.0,Polish,,,February,2021,1
-59,Cadaver,Horror,"October 22, 2020",86,5.1,Norwegian,5.1,150,October,2020,4
-60,Clinical,Thriller,"January 13, 2017",104,5.1,English,5.1,"7,295",January,2017,1
-61,Coffee & Kareem,Action comedy,"April 3, 2020",88,5.1,English,5.7,94,April,2020,2
-62,Dude,Teen comedy-drama,"April 20, 2018",97,5.1,English,5.1,"6,511",April,2018,2
-63,Geez & Ann,Romantic drama,"February 25, 2021",105,5.1,Indonesian,5.1,203,February,2021,1
-64,The Larva Island Movie,Animation,"July 23, 2020",90,5.1,English,5.1,527,July,2020,3
 65,#REALITYHIGH,Comedy,"September 8, 2017",99,5.2,English,,,September,2017,3
-66,American Factory: A Conversation with the Obamas ,Aftershow / Interview,"August 21, 2019",10,5.2,English,5.2,247,August,2019,3
-67,Desperados,Romantic comedy,"July 3, 2020",106,5.2,English,5.2,"9,217",July,2020,3
 68,Dolly Parton's Christmas on the Square,Christmas musical,"November 22, 2020",98,5.2,English,,,November,2020,4
-69,Father of the Year,Comedy,"July 20, 2018",94,5.2,English,5.2,"10,519",July,2018,3
-70,Firebrand,Drama,"February 22, 2019",112,5.2,Marathi,5.2,257,February,2019,1
-71,Ghost Lab,Horror,"May 26, 2021",117,5.2,Thai,5.2,864,May,2021,
-72,Girlfriend's Day,Comedy,"February 14, 2017",70,5.2,English,5.2,"3,631",February,2017,1
-73,Handsome: A Netflix Mystery Movie,Comedy,"May 5, 2017",81,5.2,English,5.2,"4,104",May,2017,
-74,Hubie Halloween,Comedy,"October 7, 2020",103,5.2,English,5.2,"41,739",October,2020,4
-75,Ibiza,Comedy,"May 25, 2018",94,5.2,English,5.2,"16,289",May,2018,
-76,Rim of the World,Science fiction adventure,"May 24, 2019",98,5.2,English,5.2,"19,120",May,2019,
-77,Sandy Wexler,Comedy,"April 14, 2017",131,5.2,English,5.2,"15,434",April,2017,2
-78,See You Yesterday,Science fiction,"May 17, 2019",87,5.2,English,5.2,"9,753",May,2019,
-79,Still Laugh-In: The Stars Celebrate,Variety show,"May 14, 2019",60,5.2,English,5.2,519,May,2019,
-80,"Strip Down, Rise Up",Documentary,"February 5, 2021",112,5.2,English,5.2,510,February,2021,1
-81,Tall Girl,Comedy-drama,"September 13, 2019",102,5.2,English,5.2,"19,198",September,2019,3
-82,The Beast,Drama,"November 27, 2020",99,5.2,Italian,7.8,"2,757",November,2020,4
-83,The Week Of,Comedy,"April 27, 2018",116,5.2,English,5.2,"19,796",April,2018,2
-84,A Christmas Prince: The Royal Wedding,Romantic comedy,"November 30, 2018",92,5.3,English,5.3,"9,435",November,2018,4
-85,Back to School,Comedy,"August 30, 2019",83,5.3,French,6.7,"29,258",August,2019,3
-86,Dangerous Lies,Thriller,"April 30, 2020",97,5.3,English,5.3,"15,158",April,2020,2
-87,Gunjan Saxena: The Kargil Girl,Drama,"August 12, 2020",112,5.3,Hindi,5.3,"25,097",August,2020,3
-88,Intuition,Thriller,"May 28, 2020",116,5.3,Spanish,3.9,22,May,2020,
 89,The Most Assassinated Woman in the World,Thriller,"September 7, 2018",102,5.3,French,,,September,2018,3
-90,Things Heard & Seen,Horror,"April 29, 2021",121,5.3,English,5.3,"22,674",April,2021,2
-91,"To Each, Her Own",Romantic comedy,"June 24, 2018",95,5.3,French,5.8,116,June,2018,
 92,Who Would You Take to a Deserted Island?,Drama,"April 12, 2019",93,5.3,Spanish,,,April,2019,2
-93,XOXO,Drama,"August 26, 2016",92,5.3,English,5.3,"6,755",August,2016,3
-94,A Babysitter's Guide to Monster Hunting,Comedy/Fantasy/Family,"October 15, 2020",98,5.4,English,5.4,"3,355",October,2020,4
-95,A Christmas Prince: The Royal Baby,Romantic comedy,"December 5, 2019",85,5.4,English,5.4,"5,555",December,2019,4
-96,Despite Everything,Comedy,"May 3, 2019",78,5.4,Spanish,,,May,2019,
+96,Despite Everything,Comedy,"May 3, 2019",78,5.4,Spanish,,,May,2019,2
 97,Dolly Kitty and Those Twinkling Stars,Drama,"September 18, 2020",120,5.4,Hindi,,,September,2020,3
-98,Freaks: You're One of Us,Supernatural drama,"September 2, 2020",92,5.4,German,5.4,"5,158",September,2020,3
-99,"Game Over, Man!",Action/Comedy,"March 23, 2018",101,5.4,English,5.4,"27,580",March,2018,1
-100,Guilty,Thriller,"March 6, 2020",119,5.4,Hindi,5.4,"3,969",March,2020,1
-101,In the Tall Grass,Horror,"October 4, 2019",101,5.4,English,5.4,"49,783",October,2019,4
-102,Madame Claude,Drama,"April 2, 2021",112,5.4,French,5.4,"2,564",April,2021,2
-103,Naked,Comedy,"August 11, 2017",96,5.4,English,7.8,"36,139",August,2017,3
-104,Outside the Wire,Action/Science fiction,"January 15, 2021",114,5.4,English,5.4,"36,887",January,2021,1
-105,The Princess Switch: Switched Again,Romantic comedy,"November 19, 2020",97,5.4,English,5.4,"8,209",November,2020,4
 106,Under the Riccione Sun,Romantic teenage drama,"July 1, 2020",101,5.4,Italian,,,July,2020,3
-107,A Very Murray Christmas,Comedy / Musical,"December 4, 2015",56,5.5,English,5.5,"14,461",December,2015,4
-108,Been So Long,Musical,"October 26, 2018",100,5.5,English,5.5,964,October,2018,4
-109,Dead Kids,Thriller,"December 1, 2019",94,5.5,Filipino,5.5,424,December,2019,4
-110,Get the Grift,Comedy,"April 28, 2021",94,5.5,Portuguese,5.4,562,April,2021,2
-111,Ghosts of Sugar Land,Documentary,October 16. 2019,21,5.5,English,5.5,"1,240",October,2019,4
-112,House Arrest,Comedy,"November 15, 2019",104,5.5,Hindi,5.8,"8,181",November,2019,4
-113,Kevin Hart's Guide to Black History,Variety show,"February 8, 2019",63,5.5,English,5.5,"1,225",February,2019,1
-114,Love Wedding Repeat,Romantic comedy,"April 10, 2020",100,5.5,English,5.5,"18,586",April,2020,2
-115,Mute,Science fiction/Mystery,"February 23, 2018",126,5.5,English,5.5,"32,169",February,2018,1
 116,�l�t?r�,Crime drama,"October 2, 2020",106,5.5,English,,,October,2020,4
-117,Red Dot,Thriller,"February 11, 2021",86,5.5,Swedish,5.5,"11,428",February,2021,1
-118,Ride or Die,Psychological thriller drama,"April 15, 2021",142,5.5,Japanese,5.5,"1,231",April,2021,2
-119,Step Sisters,Comedy,"January 19, 2018",108,5.5,English,5.5,"4,166",January,2018,1
-120,The Cloverfield Paradox,Science fiction,"February 4, 2018",102,5.5,English,5.5,"98,335",February,2018,1
-121,The Knight Before Christmas,Romantic comedy,"November 21, 2019",92,5.5,English,5.6,"15,448",November,2019,4
-122,The Legacy of a Whitetail Deer Hunter,Adventure/Comedy,"July 6, 2018",83,5.5,English,5.5,"3,645",July,2018,3
-123,The Package,Black comedy,"August 10, 2018",94,5.5,English,5.5,"15,247",August,2018,3
-124,Unicorn Store,Comedy,"April 5, 2019",92,5.5,English,5.5,"18,142",April,2019,2
-125,Wine Country,Comedy,"May 10, 2019",103,5.5,English,5.5,"19,665",May,2019,
 126,Bomb Scared,Black comedy,"October 12, 2017",89,5.6,Spanish/Basque,,,October,2017,4
-127,Brahman Naman,Comedy,"July 7, 2016",95,5.6,English,5.6,"1,785",July,2016,3
 128,Double Dad,Comedy-drama,"January 15, 2021",103,5.6,Portuguese,,,January,2021,1
-129,Falling Inn Love,Romantic comedy,"August 29, 2019",97,5.6,English,5.6,"17,093",August,2019,3
-130,Hold the Dark,Thriller,"September 28, 2018",125,5.6,English,5.6,"34,401",September,2018,3
-131,"Love, Guaranteed",Romantic comedy,"September 3, 2020",91,5.6,English,5.6,"15,105",September,2020,3
-132,One-Way to Tomorrow,Romance,"June 19, 2020",90,5.6,Turkish,,,June,2020,
-133,Sarah Cooper: Everything's Fine,Variety show,"October 27, 2020",49,5.6,English,5.6,"1,547",October,2020,4
-134,The Last Laugh,Comedy-drama,"January 11, 2019",98,5.6,English,5.6,"5,218",January,2019,1
+132,One-Way to Tomorrow,Romance,"June 19, 2020",90,5.6,Turkish,,,June,2020,2
 135,The Last Paradiso,Romantic drama,"February 5, 2021",107,5.6,Italian,,,February,2021,1
-136,The Midnight Sky,Science fiction,"December 23, 2020",118,5.6,English,5.6,"75,451",December,2020,4
-137,The Paramedic,Thriller,"September 16, 2020",94,5.6,Spanish,6.2,109,September,2020,3
-138,The Sleepover,Comedy,"August 21, 2020",103,5.6,English,5.6,"8,915",August,2020,3
-139,Vampires vs. the Bronx,Horror comedy,"October 2, 2020",86,5.6,English,5.6,"8,366",October,2020,4
-140,Why Did You Kill Me?,Documentary,"April 14, 2021",83,5.6,English,5.6,"3,247",April,2021,2
-141,A Week Away,Christian musical,"March 26, 2021",97,5.7,English,5.8,"3,415",March,2021,1
 142,Caught by a Wave,Romantic teen drama,"March 25, 2021",99,5.7,Italian,,,March,2021,1
-143,Christmas Inheritance,Romantic drama,"December 15, 2017",104,5.7,English,5.7,"10,222",December,2017,4
 144,Dad Wanted,Family,"September 11, 2020",102,5.7,Spanish,,,September,2020,3
-145,El Camino Christmas,Dark comedy,"December 8, 2017",89,5.7,English,5.7,"7,649",December,2017,4
-146,Eli,Horror,"October 18, 2019",98,5.7,English,5.7,"31,102",October,2019,4
-147,Ginny Weds Sunny,Romantic comedy,"October 9, 2020",125,5.7,Hindi,5.7,"4,029",October,2020,4
-148,Good Sam,Drama,"May 16, 2019",89,5.7,English,5.7,"2,608",May,2019,
-149,Lionheart,Comedy,"January 4, 2019",94,5.7,English,6.2,"33,958",January,2019,1
-150,Little Evil,Comedy horror,"September 1, 2017",94,5.7,English,5.7,"19,693",September,2017,3
-151,One Take,Documentary,"June 18, 2020",85,5.7,Thai,5.7,46,June,2020,
-152,"Out of Many, One",Documentary,"December 12, 2018",34,5.7,English,5.7,220,December,2018,4
-153,Point Blank,Action,"July 12, 2019",86,5.7,English,7.3,"19,135",July,2019,3
-154,Prime Time,Thriller,"April 14, 2021",91,5.7,Polish,5.3,"1,076",April,2021,2
-155,The Do-Over,Action comedy,"May 27, 2016",108,5.7,English,5.7,"42,491",May,2016,
-156,The Holiday Calendar,Romantic comedy,"November 2, 2018",95,5.7,English,5.7,"8,795",November,2018,4
-157,The Woman in the Window,Psychological thriller,"May 14, 2021",100,5.7,English,5.7,"55,387",May,2021,
-158,The Wrong Missy,Comedy,"May 13, 2020",90,5.7,English,5.7,"34,722",May,2020,
-159,Velvet Buzzsaw,Thriller,"February 1, 2019",112,5.7,English,5.7,"56,392",February,2019,1
-160,Yes Day,Comedy,"March 12, 2021",86,5.7,English,5.7,"18,544",March,2021,1
-161,15 August,Comedy-drama,"March 29, 2019",124,5.8,Marathi,5.9,240,March,2019,1
-162,A California Christmas,Romantic comedy,"December 14, 2020",107,5.8,English,5.8,"6,909",December,2020,4
-163,A Christmas Prince,Romantic comedy,"November 17, 2017",92,5.8,English,5.8,"17,438",November,2017,4
-164,All Day and a Night,Drama,"May 1, 2020",121,5.8,English,5.8,"3,232",May,2020,
-165,American Son,Drama,"November 1, 2019",90,5.8,English,5.8,"6,499",November,2019,4
-166,Barry,Biopic,"December 16, 2016",104,5.8,English,8.3,"51,219",December,2016,4
-167,Candy Jar,Comedy,"April 27, 2018",92,5.8,English,5.8,"4,603",April,2018,2
-168,Choked: Paisa Bolta Hai,Drama,"June 5, 2020",114,5.8,Hindi,,,June,2020,
-169,Class of '83,Drama,"August 21, 2020",98,5.8,Hindi,5.8,"5,122",August,2020,3
-170,Extinction,Science fiction/Thriller,"July 27, 2018",95,5.8,English,5.8,"48,758",July,2018,3
-171,Happy Anniversary,Romantic comedy,"March 30, 2018",78,5.8,English,5.8,"3,971",March,2018,1
-172,I Am All Girls,Thriller,"May 14, 2021",107,5.8,English,5.8,"4,126",May,2021,
-173,Let It Snow,Romantic comedy,"November 8, 2019",92,5.8,English,5.8,"18,732",November,2019,4
-174,Mascots,Mockumentary,"October 13, 2016",95,5.8,English,5.8,"6,900",October,2016,4
-175,Operation Christmas Drop,Romantic comedy,"November 5, 2020",96,5.8,English,5.8,"9,587",November,2020,4
-176,Rajma Chawal,Comedy-drama,"November 30, 2018",118,5.8,Hindi,5.8,"1,702",November,2018,4
-177,Rich in Love,Romantic comedy,"April 30, 2020",105,5.8,Portuguese,6.2,784,April,2020,2
+168,Choked: Paisa Bolta Hai,Drama,"June 5, 2020",114,5.8,Hindi,,,June,2020,2
 178,Rising High,Satire,"April 17, 2020",94,5.8,German,,,April,2020,2
-179,Rodney King,One-man show,"April 28, 2017",52,5.8,English,5.7,528,April,2017,2
-180,Sierra Burgess Is a Loser,Romantic comedy-drama,"September 7, 2018",105,5.8,English,5.8,"36,298",September,2018,3
-181,Small Crimes,Dark comedy,"April 28, 2017",95,5.8,English,5.8,"7,275",April,2017,2
-182,Special Correspondents,Satire,"April 29, 2016",100,5.8,English,5.8,"21,414",April,2016,2
-183,TAU,Science fiction/Thriller,"June 29, 2018",97,5.8,English,5.8,"28,469",June,2018,
-184,The After Party,Comedy,"August 24, 2018",89,5.8,English,5.8,"3,922",August,2018,3
-185,The Babysitter: Killer Queen,Comedy/Horror,"September 10, 2020",102,5.8,English,5.8,"30,551",September,2020,3
-186,The Claus Family,Fantasy,"December 7, 2020",96,5.8,Dutch,5.8,713,December,2020,4
-187,The Kissing Booth 2,Romantic comedy,"July 24, 2020",131,5.8,English,5.8,"23,460",July,2020,3
-188,The Perfect Date,Romantic comedy,"April 12, 2019",89,5.8,English,5.8,"34,710",April,2019,2
 189,What We Wanted,Drama,"November 11, 2020",93,5.8,German,,,November,2020,4
 190,You've Got This,Romantic comedy,"October 2, 2020",111,5.8,Spanish,,,October,2020,4
-191,6 Balloons,Drama,"April 6, 2018",75,5.9,English,5.9,"3,819",April,2018,2
-192,A Fall from Grace,Thriller,"January 17, 2020",120,5.9,English,5.9,"13,261",January,2020,1
-193,Amateur,Sports-drama,"April 6, 2018",96,5.9,English,6.9,"5,771",April,2018,2
-194,Army of the Dead,Zombie/Heist,"May 21, 2021",148,5.9,English,5.8,"128,898",May,2021,
-195,Cam,Psychological horror,"November 16, 2018",94,5.9,English,5.9,"28,619",November,2018,4
-196,Earthquake Bird,Mystery,"November 15, 2019",107,5.9,English,5.9,"13,154",November,2019,4
-197,"Frankenstein's Monster's Monster, Frankenstein",Mockumentary,"July 16, 2019",32,5.9,English,5.9,"1,981",July,2019,3
-198,Horse Girl,Drama,"February 7, 2020",104,5.9,English,6.0,"15,787",February,2020,1
-199,Notes from Dunblane: Lesson from a School Shooting,Documentary,"September 28, 2018",23,5.9,English,5.9,303,September,2018,3
-200,Maska,Romantic comedy,"March 27, 2020",111,5.9,Hindi,5.8,"1,322",March,2020,1
-201,The Decline,Thriller,"March 27, 2020",83,5.9,French,6.7,308,March,2020,1
-202,The Minimalists: Less Is Now,Documentary,"January 1, 2021",53,5.9,English,5.9,"3,322",January,2021,1
-203,The Polka King,Comedy-drama,"January 12, 2018",95,5.9,English,5.9,"9,558",January,2018,1
-204,The Prom,Musical,"December 11, 2020",132,5.9,English,5.9,"24,266",December,2020,4
-205,True Memoirs of an International Assassin,Action comedy,"November 11, 2016",98,5.9,English,5.9,"21,328",November,2016,4
-206,Ultras,Sports film,"March 20, 2020",108,5.9,Italian,5.9,"4,373",March,2020,1
-207,Come Sunday,Biopic,"April 13, 2018",106,6.0,English,6.0,"2,089",April,2018,2
-208,Forgive Us Our Debts,Drama,"May 4, 2018",104,6.0,Italian,6.6,22,May,2018,
-209,iBoy,Science fiction/Thriller,"January 27, 2017",90,6.0,English,6.0,"21,443",January,2017,1
-210,Lovefucked,Drama,"August 9, 2019",106,6.0,Hindi,5.9,371,August,2019,3
-211,Juanita,Drama,"March 8, 2019",90,6.0,English,6.0,"2,162",March,2019,1
-212,Murder Mystery,Comedy mystery,"June 14, 2019",97,6.0,English,6.0,"109,366",June,2019,
-213,Project Power,Superhero,"August 14, 2020",113,6.0,English,6.0,"76,373",August,2020,3
-214,Rebecca,Romantic thriller,"October 21, 2020",123,6.0,English,8.1,"127,161",October,2020,4
-215,The Christmas Chronicles: Part Two,Christmas comedy,"November 25, 2020",115,6.0,English,6.0,"24,291",November,2020,4
-216,The Kissing Booth,Romantic comedy,"May 11, 2018",105,6.0,English,6.0,"71,055",May,2018,
-217,The Princess Switch,Romantic comedy,"November 16, 2018",101,6.0,English,6.1,"23,694",November,2018,4
-218,To All the Boys: P.S. I Still Love You,Romantic comedy,"February 12, 2020",102,6.0,English,6.0,"31,703",February,2020,1
-219,War Machine,War-Comedy,"May 26, 2017",122,6.0,English,6.0,"43,226",May,2017,
-220,6 Underground,Action,"December 13, 2019",128,6.1,English,6.1,"149,395",December,2019,4
-221,Between Two Ferns: The Movie,Comedy,"September 20, 2019",82,6.1,English,6.1,"27,980",September,2019,3
-222,Burning Sands,Drama,"March 10, 2017",102,6.1,English,6.1,"2,631",March,2017,1
-223,Casting JonBenet,Documentary,"April 28, 2017",80,6.1,English,6.1,"5,125",April,2017,2
-224,Deidra & Laney Rob a Train,Drama,"March 17, 2017",94,6.1,English,6.1,"1,703",March,2017,1
-225,Finding 'Ohana,Family,"January 29, 2021",123,6.1,English,6.1,"7,946",January,2021,1
-226,Holidate,Romantic comedy/Holiday,"October 28, 2020",104,6.1,English,6.1,"50,702",October,2020,4
 227,Holiday in the Wild,Adventure-romance,"November 1, 2019",85,6.1,English,,,November,2019,4
-228,Hot Girls Wanted,Documentary,"May 29, 2015",84,6.1,English,6.1,"16,562",May,2015,
-229,Like Father,Comedy,"August 3, 2018",103,6.1,English,6.1,"20,092",August,2018,3
-230,Lost Girls,Crime drama,"March 13, 2020",95,6.1,English,6.1,"18,743",March,2020,1
-231,Otherhood,Comedy,"August 2, 2019",100,6.1,English,6.1,"9,976",August,2019,3
-232,Pee-wee's Big Holiday,Adventure,"March 18, 2016",89,6.1,English,6.1,"7,530",March,2016,1
 233,Rogue City,Crime drama,"October 30, 2020",116,6.1,French,,,October,2020,4
-234,Sergio,Biopic,"April 17, 2020",118,6.1,English,6.1,"8,736",April,2020,2
 235,Stuck Apart,Drama,"January 8, 2021",96,6.1,Turkish,,,January,2021,1
-236,Tersanjung the Movie,Drama,"April 1, 2021",114,6.1,Indonesian,6.0,142,April,2021,2
-237,The Killer,Western,"November 10, 2017",99,6.1,Portuguese,4.7,"1,078",November,2017,4
-238,The Lovebirds,Romantic comedy,"May 22, 2020",87,6.1,English,6.1,"23,018",May,2020,
-239,The Most Hated Woman in America,Biopic,"March 24, 2017",92,6.1,English,6.1,"5,893",March,2017,1
-240,The Perfection,Horror-thriller,"May 24, 2019",90,6.1,English,6.2,"38,261",May,2019,
 241,Tribhanga � Tedhi Medhi Crazy,Drama,"January 15, 2021",95,6.1,Hindi,,,January,2021,1
 242,Unknown Origins,Thriller,"August 28, 2020",96,6.1,Spanish,,,August,2020,3
-243,Work It,Dance comedy,"August 7, 2020",93,6.1,English,6.1,"10,760",August,2020,3
-244,Alien Xmas,Stop Motion,"November 20, 2020",42,6.2,English,6.2,965,November,2020,4
-245,Baggio: The Divine Ponytail,Biopic,"May 26, 2021",92,6.2,Italian,,,May,2021,
-246,Below Zero,Drama,"January 29, 2021",106,6.2,Spanish,7.3,"1,605",January,2021,1
-247,Citation,Drama,"November 6, 2020",151,6.2,English,6.2,866,November,2020,4
+245,Baggio: The Divine Ponytail,Biopic,"May 26, 2021",92,6.2,Italian,,,May,2021,2
 248,Crazy Awesome Teachers,Comedy-drama,"August 17, 2020",101,6.2,Indonesian,,,August,2020,3
 249,Have You Ever Seen Fireflies?,Comedy,"April 9, 2021",114,6.2,Turkish,,,April,2021,2
-250,High Flying Bird,Sports-drama,"February 8, 2019",90,6.2,English,6.2,"7,968",February,2019,1
-251,In the Shadow of the Moon,Thriller,"September 27, 2019",115,6.2,English,6.2,"44,692",September,2019,3
-252,Lost Bullet,Thriller,"June 19, 2020",92,6.2,French,4.6,28,June,2020,
-253,Octonauts & the Caves of Sac Actun,Animation,"August 14, 2020",72,6.2,English,6.2,122,August,2020,3
 254,Offering to the Storm,Thriller,"July 24, 2020",139,6.2,Spanish,,,July,2020,3
-255,Roxanne Roxanne,Biopic,"March 23, 2018",98,6.2,English,6.2,"2,911",March,2018,1
-256,Someone Great,Romantic comedy,"April 19, 2019",92,6.2,English,6.2,"19,219",April,2019,2
-257,Spenser Confidential,Action comedy,"March 6, 2020",111,6.2,English,6.2,"77,012",March,2020,1
-258,The Land of Steady Habits,Drama,"September 14, 2018",98,6.2,English,6.2,"6,826",September,2018,3
-259,The Rachel Divide,Documentary,"April 27, 2018",104,6.2,English,6.2,"2,105",April,2018,2
 260,Voyuer ,Documentary,"December 1, 2017",95,6.2,English,,,December,2017,4
-261,Win It All,Comedy,"April 7, 2017",88,6.2,English,6.2,"8,543",April,2017,2
-262,1922,Horror/Crime drama,"October 20, 2017",102,6.3,English,6.3,"56,455",October,2017,4
-263,A Tale of Two Kitchens,Documentary,"May 22, 2019",30,6.3,English/Spanish,6.3,247,May,2019,
-264,Alex Strangelove,Romantic comedy,"June 8, 2018",99,6.3,English,6.3,"15,825",June,2018,
-265,Apostle,Horror-thriller,"October 12, 2018",129,6.3,English,6.3,"46,590",October,2018,4
-266,Benji,Family film,"March 16, 2018",87,6.3,English,6.1,"4,466",March,2018,1
-267,Bright,Urban fantasy,"December 22, 2017",117,6.3,English,6.3,"174,552",December,2017,4
-268,Cargo,Drama/Horror,"May 18, 2018",104,6.3,English,6.3,"39,494",May,2018,
-269,Concrete Cowboy,Drama,"April 2, 2021",111,6.3,English,6.3,"6,865",April,2021,2
-270,Feel the Beat,Family/Comedy-drama,"June 19, 2020",107,6.3,English,6.3,"9,302",June,2020,
 271,Get the Goat,Comedy,"March 18, 2021",97,6.3,Portuguese,,,March,2021,1
 272,I Am Not an Easy Man,Romantic comedy,"April 13, 2018",98,6.3,French,,,April,2018,2
-273,June & Kopi,Drama,"January 28, 2021",90,6.3,Indonesian,4.2,"1,577",January,2021,1
-274,Music Teacher,Drama,"April 19, 2019",101,6.3,Hindi,6.3,603,April,2019,2
-275,Nail Bomber: Manhunt,Documentary,"May 26, 2021",72,6.3,English,,,May,2021,
+275,Nail Bomber: Manhunt,Documentary,"May 26, 2021",72,6.3,English,,,May,2021,2
 276,Notes for My Son,Drama,"November 24, 2020",83,6.3,Spanish,,,November,2020,4
-277,Polar,Action,"January 25, 2019",118,6.3,English,6.3,"79,753",January,2019,1
 278,Porta dos Fundos: The Last Hangover,Comedy,"December 21, 2018",44,6.3,Portuguese,,,December,2018,4
-279,Sand Castle,War,"April 21, 2017",113,6.3,English,6.3,"20,909",April,2017,2
-280,Shimmer Lake,Crime thriller,"June 9, 2017",86,6.3,English,6.3,"12,613",June,2017,
-281,Spectral,Science fiction/Action,"December 9, 2016",108,6.3,English,6.3,"54,679",December,2016,4
-282,The Babysitter,Teen comedy horror,"October 13, 2017",85,6.3,English,6.3,"77,948",October,2017,4
-283,The Discovery,Science fiction/Drama,"March 31, 2017",102,6.3,English,6.3,"31,016",March,2017,1
-284,The Forest of Love,Drama,"October 11, 2019",151,6.3,Japanese,6.8,300,October,2019,4
-285,The Laundromat,Comedy-drama,"October 18, 2019",98,6.3,English,6.3,"46,476",October,2019,4
-286,The Legend of Cocaine Island,Documentary,"March 29, 2019",87,6.3,English,6.3,"3,008",March,2019,1
-287,The Outsider,Crime drama,"March 9, 2018",120,6.3,English/Japanese,7.7,"67,646",March,2018,1
 288,Time to Hunt,Thriller,"April 23, 2020",134,6.3,Korean,,,April,2020,2
-289,To All the Boys: Always and Forever,Romantic comedy,"February 12, 2021",109,6.3,English,6.3,"18,704",February,2021,1
-290,Travis Scott: Look Mom I Can Fly,Documentary,"August 28, 2019",85,6.3,English,6.3,"3,908",August,2019,3
-291,Uncorked,Drama,"March 27, 2020",103,6.3,English,6.3,"4,794",March,2020,1
-292,Anelka: Misunderstood,Documentary,"August 5, 2020",94,6.4,French,6.4,"2,787",August,2020,3
-293,"Ariana Grande: Excuse Me, I Love You",Concert Film,"December 21, 2020",97,6.4,English,6.4,"2,052",December,2020,4
-294,ARQ,Science fiction/Thriller,"September 16, 2016",88,6.4,English,6.4,"36,444",September,2016,3
-295,Birders,Documentary,"September 25, 2019",37,6.4,English/Spanish,6.4,221,September,2019,3
 296,Como Ca�do del Cielo,Musical comedy,"December 24, 2019",112,6.4,Spanish,,,December,2019,4
-297,First Match,Sports-drama,"March 30, 2018",102,6.4,English,6.4,"2,060",March,2018,1
-298,Fractured,Thriller,"October 11, 2019",100,6.4,English,6.4,"60,742",October,2019,4
-299,Irreplaceable You,Drama,"February 16, 2018",96,6.4,English,6.4,"8,684",February,2018,1
 300,Isi & Ossi,Romantic comedy,"February 14, 2020",113,6.4,German,,,February,2020,1
-301,John Was Trying to Contact Aliens,Documentary,"August 20, 2020",16,6.4,English,6.4,"1,317",August,2020,3
-302,Layla Majnun,Romantic drama,"February 11, 2021",119,6.4,Indonesian,6.4,211,February,2021,1
-303,Murder to Mercy: The Cyntoia Brown Story,Documentary,"April 29, 2020",97,6.4,English,6.4,"2,328",April,2020,2
-304,My Own Man,Documentary,"December 13, 2014",81,6.4,English,6.4,402,December,2014,4
-305,Nappily Ever After,Comedy-drama,"September 21, 2018",98,6.4,English,6.4,"8,520",September,2018,3
-306,Over the Moon,Animation/Musical/Adventure,"October 23, 2020",95,6.4,English,6.4,"18,356",October,2020,4
 307,Street Flow,Drama,"October 12, 2019",96,6.4,French,,,October,2019,4
-308,Strong Island,Documentary,September 15. 2017,107,6.4,English,6.4,"3,637",September,2017,3
 309,Sturgill Simpson Presents: Sound & Fury,Animation / Musicial,"September 27, 2019",41,6.4,English,,,September,2019,3
-310,Take Your Pills,Documentary,"March 16, 2018",87,6.4,English,6.4,"4,664",March,2018,1
 311,The Heartbreak Club,Comedy-drama,"January 14, 2021",101,6.4,Indonesian,,,January,2021,1
-312,The Mars Generation,Documentary,"May 5, 2017",97,6.4,English,6.4,939,May,2017,
-313,The Occupant,Thriller,"March 25, 2020",103,6.4,Spanish,7.8,8,March,2020,1
-314,The Willoughbys,Animation/Comedy/Adventure,"April 22, 2020",90,6.4,English,6.4,"15,425",April,2020,2
-315,Triple Frontier,Action-thriller,"March 13, 2019",125,6.4,English,6.4,"114,463",March,2019,1
 316,Two Catalonias,Documentary,"September 28, 2018",116,6.4,Spanish/Catalan,,,September,2018,3
-317,Walk. Ride. Rodeo.,Drama,"March 8, 2019",99,6.4,English,6.4,"2,090",March,2019,1
-318,Wheelman,Action thriller,"October 20, 2017",82,6.4,English,6.4,"18,525",October,2017,4
-319,When We First Met,Romantic comedy,"February 9, 2018",97,6.4,English,6.4,"44,391",February,2018,1
-320,A 3 Minute Hug,Documentary,"October 28, 2019",28,6.5,English/Spanish,6.5,198,October,2019,4
-321,All the Bright Places,Romance,"February 28, 2020",108,6.5,English,6.5,"23,823",February,2020,1
-322,All Together Now,Drama,"August 28, 2020",93,6.5,English,6.5,"3,457",August,2020,3
-323,Altered Carbon: Resleeved,Anime/Science fiction,"March 19, 2020",74,6.5,Japanese,6.5,"5,276",March,2020,1
-324,Antoine Griezmann: The Making of a Legend,Documentary,"March 21, 2019",60,6.5,French,6.5,988,March,2019,1
-325,Canvas ,Animation / Short,"December 11, 2020",9,6.5,English,6.5,"2,012",December,2020,4
 326,Chadwick Boseman: Portrait of an Artist,Documentary,"April 17, 2021",21,6.5,English,,112,April,2021,2
-327,Chopsticks,Comedy,"May 31, 2019",100,6.5,Hindi,6.5,"4,343",May,2019,
-328,Da 5 Bloods,War drama,"June 12, 2020",155,6.5,English,6.5,"46,333",June,2020,
-329,Dolly Parton: A MusiCares Tribute,Documentary,"April 7, 2021",55,6.5,English,6.5,148,April,2021,2
-330,Eurovision Song Contest: The Story of Fire Saga,Musical comedy,"June 26, 2020",123,6.5,English,6.5,"83,819",June,2020,
-331,Gerald's Game,Horror thriller,"September 29, 2017",103,6.5,English,6.5,"94,483",September,2017,3
-332,His House,Thriller,"October 30, 2020",93,6.5,English,6.5,"31,520",October,2020,4
-333,Jingle Jangle: A Christmas Journey,Family/Christmas musical,"November 13, 2020",119,6.5,English,6.5,"15,934",November,2020,4
-334,Life Overtakes Me,Documentary,"June 14, 2019",40,6.5,English/Swedish,6.5,"1,723",June,2019,
-335,Lust Stories,Drama,"June 15, 2018",120,6.5,Hindi,6.4,"10,119",June,2018,
-336,Monster,Drama,"May 7, 2021",98,6.5,English,7.3,"140,690",May,2021,
 337,Mowgli: Legend of the Jungle,Adventure,"December 7, 2018",104,6.5,English,,,December,2018,4
-338,Nobody Knows I'm Here,Drama,"June 24, 2020",91,6.5,Spanish,,,June,2020,
-339,Nobody Speak: Trials of the Free Press,Documentary,"June 23, 2017",95,6.5,English,6.5,"3,810",June,2017,
-340,Oxygen,Science fiction thriller,"May 12, 2021",101,6.5,French,6.1,"4,320",May,2021,
-341,Set It Up,Romantic comedy,"June 15, 2018",105,6.5,English,6.5,"45,469",June,2018,
-342,The Incredible Jessica James,Comedy,"July 28, 2017",83,6.5,English,6.5,"6,709",July,2017,3
-343,Tigertail,Drama,"April 10, 2020",91,6.5,English/Taiwanese/Mandarin,6.5,"3,263",April,2020,2
-344,Tramps,Romance,"April 21, 2017",83,6.5,English,6.5,"4,923",April,2017,2
-345,What Did Jack Do?,Drama / Short,"January 20, 2020",17,6.5,English,6.5,"11,174",January,2020,1
-346,Bad Trip,Hidden-camera prank comedy,"March 26, 2021",86,6.6,English,6.6,"19,595",March,2021,1
-347,Bird Box,Psychological thriller,"December 21, 2018",124,6.6,English,6.6,"296,109",December,2018,4
-348,Bulbbul,Horror,"June 24, 2020",94,6.6,Hindi,6.6,"10,346",June,2020,
-349,Crazy About Her,Romantic comedy,"February 26, 2021",102,6.6,Spanish,5.0,5,February,2021,1
-350,Elisa & Marcela,Romance,"June 7, 2019",118,6.6,Spanish,8.9,10,June,2019,
-351,I'll Sleep When I'm Dead,Documentary,"August 19, 2016",79,6.6,English,5.8,"8,378",August,2016,3
-352,I'm Thinking of Ending Things,Psychological thriller,"September 4, 2020",134,6.6,English,6.6,"70,969",September,2020,3
-353,It Takes a Lunatic,Documentary,"October 25, 2019",126,6.6,English,6.5,152,October,2019,4
-354,Milestone,Drama,"May 7, 2021",98,6.6,Hindi,9.1,13,May,2021,
-355,Recovery Boys,Documentary,"June 29, 2018",89,6.6,English,6.6,633,June,2018,
-356,ReMastered: Who Killed Jam Master Jay?,Documentary,"December 7, 2018",58,6.6,English,6.6,654,December,2018,4
-357,Shawn Mendes: In Wonder,Documentary,"November 23, 2020",83,6.6,English,6.6,"1,766",November,2020,4
+338,Nobody Knows I'm Here,Drama,"June 24, 2020",91,6.5,Spanish,,,June,2020,2
 358,Space Sweepers,Science fiction,"February 5, 2021",136,6.6,Korean,,,February,2021,1
-359,The American Meme,Documentary,"December 7, 2018",98,6.6,English,6.6,"6,696",December,2018,4
-360,The Angel,Spy thriller,"September 14, 2018",114,6.6,English,6.6,"12,743",September,2018,3
-361,The Crimes That Bind,Crime drama,"August 20, 2020",99,6.6,Spanish,6.8,"1,055",August,2020,3
 362,The Red Sea Diving Resort,Spy thriller,"July 31, 2019",130,6.6,English,,,July,2019,3
-363,What Would Sophia Loren Do?,Documentary,"January 15, 2021",32,6.6,English,6.6,559,January,2021,1
-364,A Whisker Away,Anime/Fantasy,"June 18, 2020",104,6.7,Japanese,,,June,2020,
-365,Ajeeb Daastaans,Drama,"April 16, 2021",142,6.7,Hindi,6.7,"4,327",April,2021,2
-366,Arlo the Alligator Boy,Animated musical comedy,"April 16, 2021",92,6.7,English,6.7,693,April,2021,2
-367,"Bikram: Yogi, Guru, Predator",Documentary,"November 20, 2019",86,6.7,English,6.7,"6,138",November,2019,4
-368,Blame!,Anime/Science fiction,"May 20, 2017",106,6.7,Japanese,6.7,"7,385",May,2017,
-369,Blue Miracle,Drama,"May 27, 2021",95,6.7,English,6.7,"4,241",May,2021,
-370,CounterPunch ,Documentary,"June 16, 2017",91,6.7,English,6.7,837,June,2017,
-371,"Crack: Cocaine, Corruption & Conspiracy",Documentary,"January 11, 2021",89,6.7,English,6.7,"2,716",January,2021,1
-372,Extraction,Action,"April 24, 2020",117,6.7,English,6.7,"171,447",April,2020,2
-373,Giving Voice,Documentary,"December 11, 2020",90,6.7,English,6.7,205,December,2020,4
-374,Hillbilly Elegy,Drama,"November 24, 2020",117,6.7,English,6.7,"36,810",November,2020,4
+364,A Whisker Away,Anime/Fantasy,"June 18, 2020",104,6.7,Japanese,,,June,2020,2
 375,Hope Frozen: A Quest to Live Twice,Documentary,"September 15, 2020",80,6.7,Thia/English,,,September,2020,3
-376,Imperial Dreams,Drama,"February 3, 2017",87,6.7,English,6.7,"4,210",February,2017,1
 377,Just Another Christmas,Comedy,"December 3, 2020",101,6.7,Portuguese,,,December,2020,4
-378,Little Miss Sumo,Documentary,"October 28, 2019",19,6.7,Japanese,6.6,399,October,2019,4
-379,Malcolm & Marie,Romantic drama,"February 5, 2021",106,6.7,English,7.2,"2,046",February,2021,1
-380,"Michael Bolton's Big, Sexy, Valentine's Day Special",Variety Show,"February 7, 2017",54,6.7,English,6.7,"1,950",February,2017,1
-381,Moxie,Drama,"March 3, 2021",111,6.7,English,6.7,"20,264",March,2021,1
-382,Night in Paradise,Drama,"April 9, 2021",132,6.7,Korean,6.7,"4,524",April,2021,2
 383,Paper Lives,Drama,"March 12, 2021",97,6.7,Turkish,,,March,2021,1
 384,Parchis: The Documentary,Documentary,"July 10, 2019",106,6.7,Spanish,,,July,2019,3
-385,Tallulah,Comedy-drama,"July 29, 2016",111,6.7,English,6.7,"19,092",July,2016,3
-386,The Old Guard,Superhero/Action,"July 10, 2020",124,6.7,English,6.7,"139,009",July,2020,3
-387,Tony Robbins: I Am Not Your Guru,Documentary,July 15. 2016,116,6.7,English,6.7,"4,101",July,2016,3
-388,Upstarts,Drama,"October 18, 2019",112,6.7,Hindi,6.7,751,October,2019,4
-389,22 July,Drama,"October 10, 2018",144,6.8,English,6.8,"30,274",October,2018,4
 390,7 a�os,Drama,"October 28, 2016",76,6.8,Spanish,,,October,2016,4
-391,A Futile and Stupid Gesture,Biographical/Comedy,"January 26, 2018",101,6.8,English,6.8,"14,600",January,2018,1
 392,A Life of Speed: The Juan Manuel Fangio Story,Documentary,"March 20, 2020",92,6.8,Spanish,,,March,2020,1
-393,A Love Song for Latasha,Documentary,"September 21, 2020",19,6.8,English,6.8,"2,048",September,2020,3
-394,All in My Family,Documentary,"May 3, 2019",39,6.8,English/Mandarin,6.8,584,May,2019,
-395,Always Be My Maybe,Romantic comedy,"May 31, 2019",102,6.8,English,6.8,"49,358",May,2019,
-396,Becoming,Documentary,"May 6, 2020",89,6.8,English,6.8,"5,904",May,2020,
 397,Long Live Brij Mohan,Comedy,"August 3, 2018",105,6.8,Hindi,,,August,2018,3
-398,Calibre,Thriller,"June 29, 2018",101,6.8,English,6.8,"24,456",June,2018,
-399,Death to 2020,Comedy,"December 27, 2020",70,6.8,English,6.8,"34,206",December,2020,4
-400,GIMS: On the Record,Documentary,"September 17, 2020",96,6.8,French,6.8,170,September,2020,3
-401,Have a Good Trip: Adventures in Psychedelics,Documentary,"May 11, 2020",85,6.8,English,6.8,"6,671",May,2020,
-402,Heroin(e) ,Documentary,"September 12, 2017",39,6.8,English,6.8,"2,429",September,2017,3
-403,Mercury 13,Documentary,"April 20, 2018",79,6.8,English,6.8,"1,027",April,2018,2
-404,Saving Capitalism,Documentary,"November 21, 2017",73,6.8,English,6.8,"2,881",November,2017,4
-405,Serious Men,Drama,"October 2, 2020",114,6.8,Hindi,6.8,"6,536",October,2020,4
-406,The Boys in the Band,Drama,"September 30, 2020",121,6.8,English,6.8,"13,137",September,2020,3
-407,The Boys in the Band: Something Personal,Aftershow / Interview,"September 30, 2020",28,6.8,English,7.2,225,September,2020,3
-408,The Life Ahead,Drama,"November 13, 2020",95,6.8,Italian,6.8,"12,373",November,2020,4
-409,The Other Side of the Wind,Drama,"November 2, 2018",122,6.8,English,6.8,"6,617",November,2018,4
-410,The Trader,Documentary,"February 9, 2018",23,6.8,Georgian,6.8,"2,281",February,2018,1
-411,To the Bone,Drama,"July 14, 2017",107,6.8,English,6.8,"43,384",July,2017,3
-412,Tony Parker: The Final Shot,Documentary,"January 6, 2021",98,6.8,French,6.8,"1,100",January,2021,1
-413,AK vs AK,Thriller,"December 24, 2020",108,6.9,Hindi,6.9,"12,611",December,2020,4
-414,Amanda Knox,Documentary,"September 30, 2016",92,6.9,English,6.9,"22,351",September,2016,3
-415,Bigflo & Oil: Hip Hop Frenzy,Documentary,"October 8, 2020",100,6.9,French,6.9,99,October,2020,4
-416,Biggie: I Got a Story to Tell,Documentary,"March 1, 2021",97,6.9,English,6.9,"4,222",March,2021,1
-417,Cops and Robbers,Animation / Short,"December 28, 2020",7,6.9,English,6.3,701,December,2020,4
-418,I Don't Feel at Home in This World Anymore,Drama,"February 24, 2017",96,6.9,English,6.9,"51,991",February,2017,1
-419,Laerte-se,Documentary,"May 19, 2017",100,6.9,Portuguese,6.9,655,May,2017,
-420,Mank,Biopic,"December 4, 2020",132,6.9,English,6.9,"63,238",December,2020,4
-421,Our Souls at Night,Romance,"September 29, 2017",103,6.9,English,6.9,"12,183",September,2017,3
-422,Outlaw King,Historical-epic,"November 9, 2018",121,6.9,English,6.9,"63,708",November,2018,4
-423,Pagglait,Comedy-drama,"March 26, 2021",114,6.9,Hindi,6.9,"7,409",March,2021,1
-424,ReMastered: Who Shot the Sheriff?,Documentary,"October 12, 2018",57,6.9,English,6.9,"1,193",October,2018,4
-425,Seeing Allred,Documentary,"February 9, 2018",95,6.9,English,7.0,"1,104",February,2018,1
-426,Spelling the Dream,Documentary,"June 3, 2020",83,6.9,English,,,June,2020,
-427,The Claudia Kishi Club,Documentary,"July 10, 2020",17,6.9,English,6.9,97,July,2020,3
-428,The Half of It,Romance,"May 1, 2020",105,6.9,English,6.9,"30,977",May,2020,
-429,The Highwaymen,Crime drama,"March 29, 2019",131,6.9,English,6.9,"81,345",March,2019,1
-430,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,Comedy / Musical,"May 23, 2019",30,6.9,English,,,May,2019,
-431,The Meyerowitz Stories (New and Selected),Comedy-drama,"October 13, 2017",112,6.9,English,6.9,"44,843",October,2017,4
-432,Feminists: What Were They Thinking?,Documentary,"October 12, 2018",86,7.0,English,7.0,"1,968",October,2018,4
-433,Gaga: Five Foot Two,Documentary,"September 22, 2017",100,7.0,English,7.0,"11,957",September,2017,3
+426,Spelling the Dream,Documentary,"June 3, 2020",83,6.9,English,,,June,2020,2
+430,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,Comedy / Musical,"May 23, 2019",30,6.9,English,,,May,2019,2
 434,I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron,Aftershow / Interview,"November 3, 2020",14,7.0,English,,,November,2020,4
-435,Kingdom of Us,Documentary,"October 13, 2017",109,7.0,English,7.1,818,October,2017,4
 436,"Lorena, Light-Footed Woman",Documentary,"November 20, 2019",28,7.0,Spanish,,,November,2019,4
-437,Los Tigres del Norte at Folsom Prison,Documentary,"September 15, 2019",64,7.0,Spanish,6.9,154,September,2019,3
-438,Ma Rainey's Black Bottom,Drama,"December 18, 2020",94,7.0,English,7.0,"44,407",December,2020,4
 439,Ma Rainey's Black Bottom: A Legacy Brought to Screen,Aftershow / Interview,"December 18, 2020",31,7.0,English,,,December,2020,4
-440,Operation Varsity Blues: The College Admissions Scandal,Documentary,"March 17, 2021",99,7.0,English,7.0,"6,654",March,2021,1
-441,Pele,Documentary,"February 23, 2021",108,7.0,English,5.4,42,February,2021,1
-442,ReMastered: Devil at the Crossroads,Documentary,"April 26, 2019",48,7.0,English,7.0,"2,389",April,2019,2
-443,ReMastered: The Lion's Share,Documentary,"May 17, 2019",84,7.0,English,7.0,454,May,2019,
-444,ReMastered: The Miami Showband Massacre,Documentary,"March 22, 2019",70,7.0,English,7.0,"1,126",March,2019,1
-445,Resurface,Documentary,"September 1, 2017",27,7.0,English,7.0,400,September,2017,3
-446,Rocko's Modern Life: Static Cling,Animation / Comedy,"August 9, 2019",45,7.0,English,7.0,"3,570",August,2019,3
 447,Rose Island,Comedy,"December 9, 2020",117,7.0,Italian,,,December,2020,4
-448,The Christmas Chronicles,Christmas/Fantasy/Adventure/Comedy,"November 22, 2018",104,7.0,English,7.0,"63,305",November,2018,4
-449,The Dirt,Biopic,"March 22, 2019",108,7.0,English,7.0,"42,616",March,2019,1
-450,The Night Comes for Us,Action-thriller,"October 19, 2018",121,7.0,Indonesian,7.0,"22,886",October,2018,4
-451,13th: A Conversation with Oprah Winfrey & Ava DuVernay,Aftershow / Interview,"January 26, 2017",36,7.1,English,7.1,184,January,2017,1
-452,Angela's Christmas,Animation,"November 30, 2018",30,7.1,English,7.1,"2,539",November,2018,4
-453,Angela's Christmas Wish,Animation,"December 1, 2020",47,7.1,English,7.1,"1,069",December,2020,4
-454,Beats,Drama,"June 19, 2019",110,7.1,English,6.4,"4,568",June,2019,
-455,Circus of Books,Documentary,"April 22, 2020",92,7.1,English,7.1,"3,919",April,2020,2
-456,Dance Dreams: Hot Chocolate Nutcracker,Documentary,"November 27, 2020",80,7.1,English,7.1,270,November,2020,4
-457,Derren Brown: Sacrifice,Mentalism special,"October 19, 2018",49,7.1,English,7.1,"1,680",October,2018,4
 458,El Pepe: A Supreme Life,Documentary,"December 27, 2019",73,7.1,Spanish,,,December,2019,4
-459,End Game,Documentary,"May 4, 2018",40,7.1,English,5.1,"5,216",May,2018,
-460,Evelyn,Documentary,"September 10, 2019",96,7.1,English,7.0,"6,403",September,2019,3
-461,Ferry,Crime drama,"May 14, 2021",106,7.1,Dutch,7.0,"7,589",May,2021,
-462,Grass Is Greener,Documentary,"April 20, 2019",97,7.1,English,7.1,"1,160",April,2019,2
 463,Guillermo Vilas: Settling the Score,Documentary,"October 27, 2020",94,7.1,Spanish,,,October,2020,4
-464,Joshua: Teenager vs. Superpower,Documentary,"May 26, 2017",78,7.1,English,7.1,"1,355",May,2017,
-465,Keith Richards: Under the Influence,Documentary,"September 18, 2015",81,7.1,English,7.1,"3,060",September,2015,3
-466,Knock Down the House,Documentary,"May 1, 2019",87,7.1,English,7.1,"11,708",May,2019,
-467,Loudon Wainwright III: Surviving Twin,One-man show,"November 13, 2018",91,7.1,English,7.1,86,November,2018,4
-468,My Beautiful Broken Brain,Documentary,"March 18, 2016",91,7.1,English,7.1,"2,122",March,2016,1
-469,One of Us,Documentary,"October 20, 2017",95,7.1,English,7.0,"7,195",October,2017,4
-470,Pieces of a Woman,Drama,"January 7, 2021",126,7.1,English,7.1,"41,354",January,2021,1
-471,"Ram Dass, Going Home",Documentary,"April 6, 2018",31,7.1,English,7.1,848,April,2018,2
-472,ReMastered: Tricky Dick & the Man in Black,Documentary,"November 2, 2018",58,7.1,English,7.1,"1,297",November,2018,4
-473,Rooting for Roona,Documentary,"October 15, 2020",41,7.1,Bengali,7.1,329,October,2020,4
-474,The Devil All the Time,Psychological thriller,"September 16, 2020",138,7.1,English,7.1,"107,576",September,2020,3
-475,The Dig,Drama,"January 29, 2021",112,7.1,English,7.1,"58,511",January,2021,1
-476,The Great Hack,Documentary,"July 24, 2019",114,7.1,English,7.1,"21,692",July,2019,3
-477,The White Tiger,Drama,"January 22, 2021",125,7.1,English,7.1,"51,430",January,2021,1
-478,To All the Boys I've Loved Before,Romantic comedy,"August 17, 2018",99,7.1,English,7.1,"94,246",August,2018,3
-479,American Murder: The Family Next Door,Documentary,"September 30, 2020",82,7.2,English,7.2,"22,183",September,2020,3
-480,Audrie & Daisy,Documentary,"September 23, 2016",98,7.2,English,7.2,"6,143",September,2016,3
-481,First They Killed My Father,Drama,"September 15, 2017",136,7.2,Khmer/English/French,7.2,"16,654",September,2017,3
 482,Fyre: The Greatest Party That Never Happened,Documentary,"January 18, 2019",97,7.2,English,,,January,2019,1
-483,Into the Inferno,Documentary,"October 28, 2016",107,7.2,English,7.2,"7,914",October,2016,4
-484,LA Originals,Documentary,"April 10, 2020",92,7.2,English,7.2,"1,623",April,2020,2
-485,Ladies First,Documentary,"March 8, 2018",39,7.2,English/Hindi,7.2,422,March,2018,1
-486,Love per Square Foot,Romantic comedy,"February 14, 2018",133,7.2,Hindi,7.2,"7,653",February,2018,1
-487,Paddleton,Drama-Comedy,"February 22, 2019",89,7.2,English,7.2,"12,174",February,2019,1
-488,Private Life,Drama,"October 5, 2018",124,7.2,English,7.2,"17,361",October,2018,4
-489,Seventeen,Coming-of-age comedy-drama,"October 18, 2019",99,7.2,Spanish,7.9,169,October,2019,4
-490,Sometimes,Drama,"May 1, 2018",101,7.2,Tamil,5.5,26,May,2018,
-491,Soni,Crime drama,"January 18, 2019",97,7.2,Hindi,7.2,"2,543",January,2019,1
 492,The 40-Year-Old Version,Comedy,"October 9, 2020",124,7.2,English,,,October,2020,4
-493,The Disciple,Drama,"April 30, 2021",129,7.2,Marathi,7.2,"1,551",April,2021,2
-494,The Edge of Democracy,Documentary,"June 19, 2019",121,7.2,Portuguese,7.2,"13,729",June,2019,
-495,The King,Historical drama,"November 1, 2019",140,7.2,English,7.2,"96,334",November,2019,4
 496,The Road to El Camino: A Breaking Bad Movie,Making-of,"October 29, 2019",13,7.2,English,,,October,2019,4
-497,The Siege of Jadotville,War,"October 7, 2016",108,7.2,English,7.2,"34,685",October,2016,4
-498,Zion ,Documentary,"August 10, 2018",11,7.2,English,7.2,"1,072",August,2018,3
-499,Dolemite Is My Name,Biopic,"October 25, 2019",118,7.3,English,7.3,"56,143",October,2019,4
-500,El Camino: A Breaking Bad Movie,Crime drama,"October 11, 2019",121,7.3,English,7.3,"198,497",October,2019,4
-501,Extremis,Documentary,"September 13, 2016",24,7.3,English,7.3,"2,211",September,2016,3
-502,Father Soldier Son,Documentary,"July 17, 2020",100,7.3,English,7.3,810,July,2020,3
-503,Get Me Roger Stone,Documentary,"May 12, 2017",101,7.3,English,7.3,"6,996",May,2017,
-504,I'm No Longer Here,Drama,"May 27, 2020",105,7.3,Spanish,,,May,2020,
-505,Mucho Mucho Amor: The Legend of Walter Mercado ,Documentary,"July 8, 2020",96,7.3,Spanish/English,7.3,"2,901",July,2020,3
-506,Octonauts & the Great Barrier Reef,Animation,"October 13, 2020",47,7.3,English,6.2,122,October,2020,4
-507,Okja,Action-adventure,"June 28, 2017",121,7.3,English/Korean,7.3,"109,993",June,2017,
+504,I'm No Longer Here,Drama,"May 27, 2020",105,7.3,Spanish,,,May,2020,2
 508,On My Skin,Crime drama,"September 12, 2018",100,7.3,Italian,,,September,2018,3
-509,Raat Akeli Hai,Thriller,"July 31, 2020",149,7.3,Hindi,7.3,"16,147",July,2020,3
-510,ReMastered: Massacre at the Stadium,Documentary,"January 11, 2019",64,7.3,English/Spanish,7.3,661,January,2019,1
-511,ReMastered: The Two Killings of Sam Cooke,Documentary,"February 8, 2019",64,7.3,English,7.3,"1,979",February,2019,1
-512,Secrets of the Saqqara Tomb,Documentary,"October 28, 2020",114,7.3,English/Arabic,7.2,"5,381",October,2020,4
-513,Sitara: Let Girls Dream,Animation / Short,"March 8, 2020",15,7.3,English,7.3,528,March,2020,1
-514,Sky Ladder: The Art of Cai Guo-Qiang,Documentary,"October 14, 2016",79,7.3,English/Mandarin,7.3,"1,311",October,2016,4
-515,Team Foxcatcher,Documentary,"April 29, 2016",90,7.3,English/Russian,7.3,"5,657",April,2016,2
-516,The Ballad of Buster Scruggs,Western,"November 16, 2018",132,7.3,English,7.3,"130,192",November,2018,4
-517,The Death and Life of Marsha P. Johnson,Documentary,"October 6, 2017",105,7.3,English,7.3,"2,517",October,2017,4
-518,The Fundamentals of Caring,Comedy-drama,"June 24, 2016",97,7.3,English,7.3,"65,076",June,2016,
-519,The Other One: The Long Strange Trip of Bob Weir,Documentary,"May 22, 2015",83,7.3,English,7.3,"1,487",May,2015,
-520,American Factory,Documentary,"August 21, 2019",110,7.4,English,7.4,"19,124",August,2019,3
-521,Fire in Paradise,Documentary,"November 1, 2019",39,7.4,English,7.4,712,November,2019,4
-522,Long Shot,Documentary,"September 29, 2017",40,7.4,English,6.8,"101,074",September,2017,3
-523,Miss Americana,Documentary,"January 31, 2020",85,7.4,English,7.4,"16,936",January,2020,1
-524,Period. End of Sentence.,Documentary,"February 12, 2019",26,7.4,English/Hindi,7.4,"5,573",February,2019,1
-525,Shawn Mendes: Live in Concert,Concert Film,"November 25, 2020",87,7.4,English,7.4,214,November,2020,4
-526,Shirkers,Documentary,"October 26, 2018",97,7.4,English,7.4,"4,655",October,2018,4
-527,The Black Godfather,Documentary,"June 7, 2019",118,7.4,English,7.4,"1,170",June,2019,
-528,The Irishman: In Conversation,Aftershow / Interview,"November 27, 2019",23,7.4,English,7.4,"1,708",November,2019,4
-529,The Speed Cubers,Documentary,"July 29, 2020",40,7.4,English,7.4,"2,857",July,2020,3
-530,They'll Love Me When I'm Dead,Documentary,"November 2, 2018",98,7.4,English,7.4,"4,693",November,2018,4
-531,Tig,Documentary,"July 17, 2015",80,7.4,English,7.4,"2,471",July,2015,3
-532,"Barbra: The Music, The Mem'ries, The Magic!",Concert Film,"November 22, 2017",108,7.5,English,7.5,401,November,2017,4
-533,Blackpink: Light Up the Sky,Documentary,"October 14, 2020",79,7.5,Korean,7.5,"5,492",October,2020,4
-534,City of Joy,Documentary,"September 7, 2018",74,7.5,English,6.5,"4,902",September,2018,3
-535,Dick Johnson Is Dead,Documentary,"October 2, 2020",90,7.5,English,7.5,"5,327",October,2020,4
-536,Homecoming: A Film by Beyonce ,Documentary,"April 17, 2019",137,7.5,English,7.5,"6,512",April,2019,2
-537,Invader Zim: Enter the Florpus,Animation / Science Fiction,"August 16, 2019",71,7.5,English,7.5,"5,052",August,2019,3
-538,Joan Didion: The Center Will Not Hold,Documentary,October 27. 2017,98,7.5,English,7.5,"1,962",October,2017,4
-539,John Mulaney & the Sack Lunch Bunch,Variety show,"December 24, 2019",70,7.5,English,8.0,"7,471",December,2019,4
-540,Reversing Roe,Documentary,"September 13, 2018",99,7.5,English,7.5,"1,145",September,2018,3
-541,The White Helmets,Documentary,September 16. 2016,40,7.5,English,7.5,"7,291",September,2016,3
-542,Athlete A,Documentary,"June 24, 2020",104,7.6,English,7.6,"8,597",June,2020,
-543,Ludo,Anthology/Dark comedy,"November 12, 2020",149,7.6,Hindi,7.6,"33,344",November,2020,4
-544,Quincy,Documentary,"September 21, 2018",124,7.6,English,7.6,"4,013",September,2018,3
-545,Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere,Documentary,"June 12, 2019",144,7.6,English,,,June,2019,
-546,Tell Me Who I Am,Documentary,"October 18, 2019",85,7.6,English,7.6,"12,149",October,2019,4
-547,The Bleeding Edge,Documentary,"July 27, 2018",100,7.6,English,7.6,"2,340",July,2018,3
-548,The Social Dilemma,Documentary,"September 9, 2020",94,7.6,English,7.6,"72,106",September,2020,3
-549,The Two Popes,Drama,"December 20, 2019",125,7.6,English,7.6,"113,351",December,2019,4
-550,"What Happened, Miss Simone?",Documentary,"June 26, 2015",84,7.6,English,7.6,"12,944",June,2015,
-551,Yeh Ballet,Drama,"February 21, 2020",117,7.6,Hindi,7.6,"1,135",February,2020,1
-552,Anima,Musical / Short,"June 27, 2019",15,7.7,English,7.7,"10,003",June,2019,
-553,Beasts of No Nation,War drama,"October 16, 2015",136,7.7,English/Akan,7.7,"76,077",October,2015,4
-554,Brene Brown: The Call to Courage,Documentary,"April 19, 2019",76,7.7,English,7.7,"1,276",April,2019,2
+545,Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere,Documentary,"June 12, 2019",144,7.6,English,,,June,2019,2
 555,Crip Camp: A Disability Revolution,Documentary,"March 25, 2020",108,7.7,English,,,March,2020,1
-556,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Cliffton ",Documentary,"November 17, 2017",94,7.7,English,7.7,"24,072",November,2017,4
-557,Justin Timberlake + The Tennessee Kids,Concert Film,"October 12, 2016",90,7.7,English,7.7,"1,932",October,2016,4
 558,Road to Roma,Making-of,"February 11, 2020",72,7.7,Spanish,,,February,2020,1
-559,Roma,Drama,"December 14, 2018",135,7.7,Spanish,7.7,"145,826",December,2018,4
-560,If Anything Happens I Love You,Animation / Short,"November 20, 2020",12,7.8,English,7.8,"12,962",November,2020,4
-561,The Irishman,Crime drama,"November 27, 2019",209,7.8,English,7.8,"342,106",November,2019,4
-562,The Trial of the Chicago 7,Drama,"October 16, 2020",130,7.8,English,7.8,"151,399",October,2020,4
-563,A Secret Love,Documentary,"April 29, 2020",82,7.9,English,7.9,"3,744",April,2020,2
-564,Icarus,Documentary,"August 4, 2017",120,7.9,English,7.9,"42,171",August,2017,3
-565,Marriage Story,Drama,"December 6, 2019",136,7.9,English,7.9,"262,956",December,2019,4
-566,The Ivory Game,Documentary,"November 4, 2016",112,7.9,English,7.9,"3,024",November,2016,4
 567,Struggle: The Life and Lost Art of Szukaiski,Documentary,"December 21, 2018",105,8.0,English,,,December,2018,4
-568,Chasing Coral ,Documentary,"July 14, 2017",89,8.1,English,8.1,"4,712",July,2017,3
-569,My Octopus Teacher,Documentary,"September 7, 2020",85,8.1,English,8.1,"41,222",September,2020,3
-570,Rising Phoenix,Documentary,"August 26, 2020",106,8.1,English,8.1,"1,379",August,2020,3
-571,13th,Documentary,"October 7, 2016",100,8.2,English,8.2,"33,234",October,2016,4
-572,Disclosure: Trans Lives on Screen,Documentary,"June 19, 2020",107,8.2,English,8.2,"4,503",June,2020,
-573,Klaus,Animation/Christmas/Comedy/Adventure,"November 15, 2019",97,8.2,English,8.2,"114,744",November,2019,4
-574,Seaspiracy,Documentary,"March 24, 2021",89,8.2,English,8.2,"24,932",March,2021,1
 575,The Three Deaths of Marisela Escobedo,Documentary,"October 14, 2020",109,8.2,Spanish,,,October,2020,4
-576,Cuba and the Cameraman ,Documentary,"November 24, 2017",114,8.3,English,8.3,"3,982",November,2017,4
-577,Dancing with the Birds,Documentary,"October 23, 2019",51,8.3,English,8.3,"1,893",October,2019,4
-578,Ben Platt: Live from Radio City Music Hall,Concert Film,"May 20, 2020",85,8.4,English,8.4,404,May,2020,
-579,Taylor Swift: Reputation Stadium Tour,Concert Film,"December 31, 2018",125,8.4,English,8.4,"4,349",December,2018,4
-580,Winter on Fire: Ukraine's Fight for Freedom,Documentary,"October 9, 2015",91,8.4,English/Ukranian/Russian,8.4,"13,353",October,2015,4
-581,Springsteen on Broadway,One-man show,"December 16, 2018",153,8.5,English,8.5,"2,001",December,2018,4
-582,Emicida: AmarElo - It's All For Yesterday,Documentary,"December 8, 2020",89,8.6,Portuguese,8.6,"1,136",December,2020,4
-583,David Attenborough: A Life on Our Planet,Documentary,"October 4, 2020",83,9.0,English,9.0,"28,028",October,2020,4
