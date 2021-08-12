@@ -1,4 +1,5 @@
-# bootcamp-project-1
+# Bootcamp-Project-1
+--------------------------
 # Flicking Through Netflix Data 
 
 A project by Mini Yadav, Isha Singh, Emmanuela Osei Owusu, Sam Stafford, James Lilley and Elena Dragomir. 
